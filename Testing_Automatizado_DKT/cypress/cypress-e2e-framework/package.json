@@ -1,0 +1,27 @@
+{
+  "name": "cypress-e2e-framework",
+  "version": "1.0.0",
+  "description": "E2E Framework Testing Cypress-DKT",
+  "main": "test",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "e2e",
+    "automation",
+    "framework",
+    "cypress"
+  ],
+  "author": "jorge",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx-populate": "^1.21.0"
+  },
+  "devDependencies": {
+    "cypress": "^12.17.0",
+    "cypress-movie": "^3.0.20",
+    "cypress-plugin-tab": "^1.0.5",
+    "cypress-xpath": "^2.0.1"
+  }
+}

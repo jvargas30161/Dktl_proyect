@@ -1,0 +1,9 @@
+{
+  "baseUrl": "https://example.com",
+  "defaultCommandTimeout": 10000,
+  "chromeWebSecurity": false,
+  "viewportWidth": 1280,
+  "viewportHeight": 720,
+  "waitForAnimations": true,
+  "video": false
+}

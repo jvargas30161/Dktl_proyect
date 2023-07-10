@@ -1,0 +1,135 @@
+{
+  "Personal": {
+    "identification": {
+      "personalIdentificationNumber": "CAGV030622XS2",
+      "identificationDocumentType": "RFC",
+      "curp": "CAGV030622MVZSLC03",
+      "nss": "97230323731"
+    },
+    "name": "Víctor",
+    "firstLastName": "Castro",
+    "secondLastName": "Gallego",
+    "birthdate": "22-06-2003",
+    "identityAccessUser": "DO1CXVXWVS",
+    "civilStatus": "Casado(a)",
+    "gender": "Femenino",
+    "genderName": "Femenino",
+    "beneficiary": "Aimar Soler Reyes",
+    "beneficiaryPhone": "7745427034",
+    "countryOfNationality": "Mexico",
+    "numberOfChildren": 0
+  },
+  "Contact": {
+    "personalEmail": "DO1CXVXWVS@example.com",
+    "personalPhone": "7631864987"
+  },
+  "PersonalAbility": {
+    "educationDataDto": {
+      "educationType": 1,
+      "educationCompleted": "Sí",
+      "educationName": "Maestría",
+      "education": 3
+    },
+    "sportDisciplineDataDtoMandatory": {
+      "sportDiscipline": 20,
+      "sportDisciplineName": "Inline Skate/ Quad",
+      "sportDisciplineLevel": "Bajo",
+      "sportDisciplineFrequency": "+ 3 dias a la semana"
+    },
+    "sportDisciplineDataDto2": {
+      "sportDiscipline": 107,
+      "sportDisciplineName": "Beach Tennis",
+      "sportDisciplineLevel": 1,
+      "sportDisciplineFrequency": 1
+    },
+    "sportDisciplineDataDto3": {
+      "sportDiscipline": 76,
+      "sportDisciplineName": "Coarse Fishing",
+      "sportDisciplineLevel": 1,
+      "sportDisciplineFrequency": 1
+    }
+  },
+  "PersonalLabor": {
+    "disability": false,
+    "legalCapacity": true,
+    "legalTutorDto": null
+  },
+  "Address": {
+    "country": 143,
+    "postalCode": "96318",
+    "region": 29,
+    "regionName": "Veracruz de Ignacio de la Llave",
+    "municipality": 2208,
+    "municipalityName": "Jáltipan",
+    "settlement": 165183,
+    "settlementName": "Tierra Colorada",
+    "settlementType": 9,
+    "settlementTypeName": "Ranchería",
+    "streetType": 1,
+    "streetTypeName": "Calle",
+    "address": "Aguilar Moya",
+    "numberInterior": "1",
+    "numberExterior": "87"
+  },
+  "Fiscal": {
+    "rfc": "CAGV030622XS2",
+    "curp": "CAGV030622MVZSLC03",
+    "socialSecurityNumber": "97230323731",
+    "infonavitCredit": true,
+    "fiscalName": "Víctor Castro Gallego",
+    "fiscalAddress": "96318",
+    "fiscalRule": "60bd29e2-31db-57b9-acaf-8850669f03b9",
+    "fiscalRuleName": "Sueldos y Salarios e Ingresos Asimilados a Salarios",
+    "infonavitCreditNumber": "ANY_STRING_tLr7RPcxKXK6",
+    "infonavitCreditType": 2,
+    "infonavitCreditFromDate": "2021-06-22",
+    "infonavitCreditDiscount": true,
+    "infonavitCreditDiscountNumber": "ANY_STRING_hU6Bn5PJFNGI",
+    "fonacotCredit": false,
+    "fonacotCreditNumber": null
+  },
+  "Bank": {
+    "bank": 29,
+    "bankName": "AZTECA",
+    "interbankCode": "127595584703435774",
+    "accountNumber": "8470343577"
+  },
+  "labor": {
+    "assignedUsername": "DO1CXVXWVS",
+    "timebase": 40,
+    "professionalEmail": "DO1CXVXWVS@decathlon.com",
+    "coachCollaboratorUuid": "8bc98d52-cd0e-5917-80f7-1f8183edfe52",
+    "teamUuid": "6d4924f7-a93e-5e3d-9bfd-9fcb749d4ebb",
+    "positionNumber": "999900001",
+    "personnelDivision": "MX1610",
+    "compensationDay": 1,
+    "holidaysRate": 2,
+    "positionMonthlyRate": 1,
+    "selectedHoliday": 1,
+    "workdayType": 1,
+    "sport": 15,
+    "legalRepresentativeUuid": "c3ccb9e4-4ab6-5e03-a398-d02536bc0b68",
+    "notifications": false
+  
+  },
+
+	"Laboral": {
+		"oficio": "Líder Deporte",
+		"equipo": "Team Interlomas 0",
+		"patrón": "Stefania Velasco León",
+		"representantelegal": "Nadia Aguilar Márquez",
+		"tipodecontrato": "Determinado",
+		"primamensual": "Volumen venta (10)",
+		"email": "2UPNRHEWUT@decathlon.com",
+		"deporte que lidera": "Waterpolo",
+		"fechadeinicio": "26-06-2023",
+		"Fechadefin": "22-09-2023",
+		"tipodejornada": "Diurna",
+		"vacaciones": "18 días",
+		"aguinaldo": "quince días",
+		"primavacacional": "50%",
+		"antigüedad": "26-06-2023",
+		"salario": 8618.34,
+		"grupodenomina": "Prueba quincenal"
+	}
+}

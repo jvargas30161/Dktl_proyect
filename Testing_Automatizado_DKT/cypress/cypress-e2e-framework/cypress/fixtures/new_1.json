@@ -1,0 +1,62 @@
+{
+	"personal": {
+		"rfc": "MACL020802IJA",
+		"curp": "MACL020802MNERXL03",
+		"nss": "97220259317",
+		"name": "Claudia",
+		"lastName": "Marín",
+		"secondLastName": "Torres",
+		"personalPhone": "7420835655",
+		"birthDate": "02-08-2002",
+		"identityAccessUser": "DJZ0WFAPYH",
+		"email": "DJZ0WFAPYH@example.com",
+		"civilStatus": 3,
+		"civilStatusName": "Soltero(a)",
+		"gender": "Femenino",
+		"genderName": "H",
+		"beneficiary": "Shelia Caballero Ramírez",
+		"education": 5,
+		"educationName": "Preparatoria",
+		"educationCompleted": false,
+		"sportDiscipline1": 23,
+		"sportDiscipline1Name": "Scooter",
+		"sportDiscipline1Level": 1,
+		"sportDiscipline1Frequency": 1
+	},
+	"address": {
+		"country": "Holy",
+		"postalCode": "99260",
+		"region": 31,
+		"regionName": "Zacatecas",
+		"municipality": 2361,
+		"municipalityName": "Chalchihuites",
+		"settlement": 170527,
+		"settlementName": "Gualterio",
+		"settlementType": 12,
+		"settlementTypeName": "Pueblo",
+		"streetType": 1,
+		"streetTypeName": "Calle",
+		"address": "Muñoz Calvo",
+		"numberInterior": 75,
+		"numberExterior": 86
+	},
+	"fiscal": {
+		"rfc": "MACL020802IJA",
+		"curp": "MACL020802MNERXL03",
+		"nss": "97220259317",
+		"infonavitCredit": true,
+		"infonavitCreditNumber": "ANY_STRING_lJteQjFZZzz5",
+		"infonavitCreditType": 3,
+		"infonavitCreditFromDate": "2020-08-02",
+		"infonavitCreditDiscount": false,
+		"infonavitCreditDiscountNumber": null,
+		"fonacotCredit": true,
+		"fonacotCreditNumber": "ANY_STRING_zbzPG014ZqBh"
+	},
+	"bank": {
+		"bank": 18,
+		"bankName": "BANORTE",
+		"interbankCode": "072783152310426936",
+		"accountNumber": "5231042693"
+	}
+}

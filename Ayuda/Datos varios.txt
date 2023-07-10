@@ -1,0 +1,41 @@
+Correo creado:
+javargassa46@gmail.com			
+Nicolas120212
+
+Cuenta git:
+user:		autodkt
+correo:		javargassa46@gmail.com	
+clave:		Nicolas120212@
+
+Usuario dkt:
+usuario: 	JVARGA30
+contraseña: 	8P0GOT
+
+Repositorio DKT:
+https://github.com/dktunited/e2-mx-front-tests
+
+desktop:
+Repository URL GitHub username and repository	https://github.com/erickrojasDKT/eplanning.git
+
+Local path					C:\Users\javargas\OneDrive - ATSISTEMAS SA\Documentos\GitHub\eplanning
+
+Creado por Victor 				https://github.com/dktunited/e2-mx-front-tests
+						C:\Users\javargas\OneDrive - ATSISTEMAS SA\Documentos\GitHub\e2-mx-front-tests
+
+
+
+Jenkinis:
+http://localhost:8080/
+jvargas30161@gmail.com
+
+
+
+https://vscode.dev/tunnel/at-5cd1466y1g/c:/DKT-END
+
+
+git dkt:
+jorgealexander.vargas.partner@decathlon.com
+
+
+
+

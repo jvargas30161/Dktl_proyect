@@ -1,0 +1,98 @@
+[
+  {
+    "personal": {
+      "identification": {
+        "personalIdentificationNumber": "MAMA030602ZNA",
+        "identificationDocumentType": "RFC",
+        "curp": "MAMA030602MNERXX03",
+        "nss": "97230366888"
+      },
+      "name": "Mar",
+      "firstLastName": "Márquez",
+      "secondLastName": "",
+      "birthdate": "02-06-2003",
+      "identityAccessUser": "BIOQQ8XT92",
+      "civilStatus": 4,
+      "gender": 2,
+      "genderName": "M",
+      "beneficiary": "Andrea Gil Calvo",
+      "beneficiaryPhone": "3883202140",
+      "countryOfNationality": "MEX",
+      "numberOfChildren": 0,
+      "fm3number": "3047885992",
+      "fm3expeditionDate": "02-05-2023",
+      "fm3expirationDate": "02-06-2024"
+    },
+    "contact": {
+      "personalEmail": "BIOQQ8XT92@example.com",
+      "personalPhone": "0682067234"
+    },
+    "personalAbility": {
+      "educationDataDto": {
+        "educationType": 1,
+        "educationCompleted": false,
+        "educationName": "Maestría",
+        "education": 3
+      },
+      "sportDisciplineDataDtoMandatory": {
+        "sportDiscipline": 105,
+        "sportDisciplineName": "After Sale Mountain Sports / Walking",
+        "sportDisciplineLevel": 2,
+        "sportDisciplineFrequency": 1
+      },
+      "sportDisciplineDataDto2": {
+        "sportDiscipline": 13,
+        "sportDisciplineName": "Predator Fishing",
+        "sportDisciplineLevel": 2,
+        "sportDisciplineFrequency": 1
+      },
+      "sportDisciplineDataDto3": {
+        "sportDiscipline": 113,
+        "sportDisciplineName": "Ice Hockey Inline Hockey",
+        "sportDisciplineLevel": 3,
+        "sportDisciplineFrequency": 3
+      }
+    },
+    "personalLabor": {
+      "disability": false,
+      "legalCapacity": true,
+      "legalTutorDto": null
+    },
+    "address": {
+      "country": 208,
+      "postalCode": "23597",
+      "region": 3,
+      "regionName": "Baja California Sur",
+      "municipality": 19,
+      "municipalityName": "Los Cabos",
+      "settlement": 5615,
+      "settlementName": "Buenavista",
+      "settlementType": 8,
+      "settlementTypeName": "Rancho",
+      "streetType": 7,
+      "streetTypeName": "Galerías",
+      "address": "López Soler",
+      "numberInterior": "1",
+      "numberExterior": "90"
+    },
+    "fiscal": {
+      "rfc": "MAMA030602ZNA",
+      "curp": "MAMA030602MNERXX03",
+      "socialSecurityNumber": "97230366888",
+      "infonavitCredit": true,
+      "infonavitCreditNumber": "ANY_STRING_zon0QiDPmEii",
+      "infonavitCreditType": 1,
+      "infonavitCreditFromDate": "2021-06-02",
+      "infonavitCreditDiscount": false,
+      "infonavitCreditDiscountNumber": null,
+      "fonacotCredit": false,
+      "fonacotCreditNumber": null
+    },
+    "bank": {
+      "bank": 74,
+      "bankName": "FINCOMUN",
+      "interbankCode": "634552017865734961",
+      "accountNumber": "1786573496"
+    },
+  }
+]
